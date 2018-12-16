@@ -1,0 +1,48 @@
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.dll
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.xml
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbprojAssemblyReference.cache
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.cache
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.dll
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.xml
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.xml
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.cache
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.xml
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.pdb
+D:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\PRoyectoFinal\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\bin\Release\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\ProgramaMateria\AccesoDatos\obj\Release\AccesoDatos.pdb

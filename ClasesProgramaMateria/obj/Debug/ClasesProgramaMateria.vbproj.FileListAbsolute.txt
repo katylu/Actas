@@ -1,0 +1,92 @@
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojResolveAssemblyReference.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CoreCompileInputs.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CopyComplete
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojResolveAssemblyReference.cache
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojResolveAssemblyReference.cache
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.Cache
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb

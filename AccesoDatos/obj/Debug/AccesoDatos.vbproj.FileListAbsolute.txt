@@ -1,0 +1,57 @@
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\casi-ProgramaMateria\ProgramaMateria\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\AccesoDatos\obj\Debug\AccesoDatos.pdb

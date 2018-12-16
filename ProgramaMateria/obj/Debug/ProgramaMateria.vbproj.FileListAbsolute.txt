@@ -1,0 +1,568 @@
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+C:\Users\alumno-201\Videos\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+C:\Users\alumno-201\Pictures\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojResolveAssemblyReference.cache
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.Cache
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+E:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojResolveAssemblyReference.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CoreCompileInputs.cache
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CopyComplete
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.xml
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Razor.resources.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.resources.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Helpers.resources.dll
+D:\sabado\SegundaEntrega-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\Proyecto\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Newtonsoft.Json.dll
+C:\Users\Katy\Documents\KL_UAA\2018_1\visual\TerceraEntrega_Junio\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Newtonsoft.Json.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Newtonsoft.Json.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Newtonsoft.Json.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Razor.resources.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojResolveAssemblyReference.cache
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.Cache
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+C:\Users\alumno-201\Pictures\Ckeditor-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ApplicationInsights.config
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\csc.exe
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\vbc.exe
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll.config
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ProgramaMateria.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Newtonsoft.Json.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\ClasesProgramaMateria.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.Web.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Nancy.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\Newtonsoft.Json.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Razor.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Helpers.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\System.Web.Mvc.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.pdb
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\AccesoDatos.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Razor.resources.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.resources.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Helpers.resources.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\bin\es\System.Web.Mvc.resources.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojResolveAssemblyReference.cache
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.Cache
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+E:\casi-ProgramaMateria\ProgramaMateria\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ApplicationInsights.config
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\csc.exe
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\vbc.exe
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\VBCSCompiler.exe
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ProgramaMateria.dll.config
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.Web.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Nancy.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Newtonsoft.Json.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Helpers.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Mvc.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Razor.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Webpages.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Webpages.Razor.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.Web.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Nancy.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\Newtonsoft.Json.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Razor.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Webpages.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Webpages.Razor.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Helpers.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\System.Web.Mvc.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\es\System.Web.Razor.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ProgramaMateria\obj\Debug\ProgramaMateria.pdb
