@@ -698,6 +698,7 @@
     <Content Include="Views\Alumno\Index.vbhtml" />
     <Content Include="Views\Profesor\Index.vbhtml" />
     <Content Include="Views\Curso\Index.vbhtml" />
+    <Content Include="Views\Curso\Acta.vbhtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -710,9 +711,9 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClasesProgramaMateria\ClasesProgramaMateria.vbproj">
+    <ProjectReference Include="..\ClasesProgramaMateria\ClasesActa.vbproj">
       <Project>{eec5db7c-b9f6-4b88-878d-43865cfa9014}</Project>
-      <Name>ClasesProgramaMateria</Name>
+      <Name>ClasesActa</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

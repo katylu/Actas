@@ -10,6 +10,9 @@ Public Class Curso
     Private turno As String
     Private aula As String
     Private seccion As String
+    Private departamento As String
+    Private facultad As String
+    Private carrera As String
 
     Public Property pid_curso As Integer
         Get
@@ -49,10 +52,10 @@ Public Class Curso
 
     Public Property psemestre As String
         Get
-            Return psemestre
+            Return semestre
         End Get
         Set(value As String)
-            psemestre = value
+            semestre = value
         End Set
     End Property
 
@@ -83,6 +86,32 @@ Public Class Curso
         End Set
     End Property
 
+    Public Property pdepartamento As String
+        Get
+            Return departamento
+        End Get
+        Set(value As String)
+            departamento = value
+        End Set
+    End Property
+
+    Public Property pfacultad As String
+        Get
+            Return facultad
+        End Get
+        Set(value As String)
+            facultad = value
+        End Set
+    End Property
+
+    Public Property pcarrera As String
+        Get
+            Return carrera
+        End Get
+        Set(value As String)
+            carrera = value
+        End Set
+    End Property
 
     Public Shared Function RecuperarRegistroCurso() As DataTable
         Try
@@ -92,6 +121,30 @@ Public Class Curso
         Catch ex As Exception
             Throw ex
         End Try
+    End Function
+
+    Public Function RecuperarCurso(vCodCurso As Integer) As Curso
+        Dim dtCurso As New DataTable
+        dtCurso = gDatos.TraerDataTable("spConsultarCurso", vCodCurso)
+        If dtCurso.Rows.Count > 0 Then
+            Dim vCurso As New Curso
+            With vCurso
+                .id_curso = dtCurso.Rows(0).Item("id_curso")
+                .nro_curso = dtCurso.Rows(0).Item("nro_curso")
+                .aula = dtCurso.Rows(0).Item("aula")
+                .materia = dtCurso.Rows(0).Item("materia")
+                .profesor = dtCurso.Rows(0).Item("nombre") + " " + dtCurso.Rows(0).Item("apellido")
+                .seccion = dtCurso.Rows(0).Item("seccion")
+                .turno = dtCurso.Rows(0).Item("turno")
+                .semestre = dtCurso.Rows(0).Item("semestre")
+                .departamento = dtCurso.Rows(0).Item("departamento")
+                .facultad = dtCurso.Rows(0).Item("facultad")
+                .carrera = dtCurso.Rows(0).Item("carrera")
+            End With
+            Return vCurso
+        Else
+            Return Nothing
+        End If
     End Function
 End Class
 

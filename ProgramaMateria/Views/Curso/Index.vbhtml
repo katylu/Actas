@@ -25,6 +25,7 @@ End Code
 				<th>Turno</th>
 				<th>Aula</th>
 				<th>Seccion</th>
+				<th>Acta</th>
 				<td></td>
 			</tr>
 
@@ -39,10 +40,11 @@ End Code
 					<td>@item("turno")</td>
 					<td>@item("aula")</td>
 					<td>@item("seccion")</td>
+					<td>
+						<a href="/Curso/Acta/@item("id_curso")" class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Agregar</a>
+					</td>
 
-	
-
-</tr>
+				</tr>
             Next
         </table>
 

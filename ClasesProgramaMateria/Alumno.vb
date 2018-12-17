@@ -68,6 +68,17 @@ Public Class Alumno
             Throw ex
         End Try
     End Function
+
+    'RecuperarAlumnosByCurso
+    Public Shared Function RecuperarAlumnosByCurso(idCurso As Integer) As DataTable
+        Try
+            Dim dtAlumno As New Data.DataTable("Alumno")
+            dtAlumno = gDatos.TraerDataTable("spListarAlumnoByCurso", idCurso)
+            Return dtAlumno
+        Catch ex As Exception
+            Throw ex
+        End Try
+    End Function
 End Class
 
 

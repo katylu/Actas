@@ -1,0 +1,14 @@
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\AccesoDatos.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\AccesoDatos.pdb
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\bin\Debug\AccesoDatos.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesActa.vbprojAssemblyReference.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.Resources.resources
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesActa.vbproj.GenerateResource.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesActa.vbproj.CoreCompileInputs.cache
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesActa.vbproj.CopyComplete
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.dll
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.xml
+C:\Users\Katy\Documents\KL_UAA\2018_2\Gestión de Proyecto\sistema\Actas\ClasesProgramaMateria\obj\Debug\ClasesProgramaMateria.pdb
