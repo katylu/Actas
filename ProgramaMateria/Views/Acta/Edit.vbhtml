@@ -198,10 +198,28 @@ End Code
             </div>
         Next
 
-        <div Class="form-group">
-            <input type="submit" Class="btn btn-primary" value="Guardar Cambios" />
-            <a href="/Acta/Curso/@Model.pid_curso" class="btn btn-info"><ion-icon name="clipboard"></ion-icon>Atras</a>
-        </div>
+             <div class="print">
+                 <br />
+                 <br />
+                 <br />
+                 <br />
+                 <span>______________________</span>
+                 <br />
+                 <span>@Model.pprofesor</span>
+                 <br />
+                 <span>Profesor/a</span>
+             </div>
+
+             <div Class="form-group">
+
+                 @if Model.pestado = "PENDIENTE" Then
+                     @<input type="submit" Class="btn btn-primary no-print" value="Guardar Cambios" />
+                 Else
+                     @<input type="submit" Class="btn btn-primary no-print" value="Imprimir" onClick="window.print()" />
+                 End If
+
+                 <a href="/Acta/Curso/@Model.pid_curso" class="btn btn-info no-print"><ion-icon name="clipboard"></ion-icon>Atras</a>
+             </div>
     </form>
 </div>
 <script type="text/javascript">

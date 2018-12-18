@@ -43,9 +43,9 @@ End Code
                     <td>
 
                         @if item("estado") = "PENDIENTE" Then
-                            @<a href="/Acta/Edit/" + item("id_acta") Class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Editar</a>
+                            @<a href="/Acta/Edit/@item("id_acta")"  Class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Editar</a>
                         Else
-                            @<a href="/Acta/Edit/" + item("id_acta") Class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Imprimir</a>
+                            @<a href="/Acta/Edit/@item("id_acta")"  Class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Imprimir</a>
                         End If
 
                     </td>

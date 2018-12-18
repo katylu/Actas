@@ -41,7 +41,11 @@ End Code
                     <td>@item("estado")</td>
                     <td>@item("tipo")</td>
                     <td>
-                        <a href="/Acta/Edit/@item("id_acta")" class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Editar</a>
+                        @if item("estado") = "PENDIENTE" Then
+                            @<a href="/Acta/Edit/@item("id_acta")" Class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Editar</a>
+                        Else
+                            @<a href="/Acta/Edit/@item("id_acta")" Class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Imprimir</a>
+                        End If
                     </td>
 
                 </tr>

@@ -476,3 +476,18 @@ footer.sticky-footer {
     width: calc(100% - 55px);
   }
 }
+@media screen {
+    .print {
+        display: none;
+    }
+}
+    @media print {
+        /* Contenido del fichero print.css */
+        .no-print {
+            display: none;
+        }
+
+        .print {
+            display: normal;
+        }
+    }
