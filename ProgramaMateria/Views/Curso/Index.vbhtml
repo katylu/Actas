@@ -42,6 +42,7 @@ End Code
 					<td>@item("seccion")</td>
 					<td>
 						<a href="/Curso/Acta/@item("id_curso")" class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Agregar</a>
+                        <a href="../Acta/Curso/@item("id_curso")" class="btn btn-primary"><ion-icon name="clipboard"></ion-icon>Ver Actas</a>
 					</td>
 
 				</tr>

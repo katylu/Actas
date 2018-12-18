@@ -24,9 +24,27 @@ Namespace Controllers
 
         <HttpPost()>
         Function Acta(form As FormCollection) As ActionResult
+            Dim dtAlumnos As New DataTable
+            dtAlumnos = Alumno.RecuperarAlumnosByCurso(form("intIdCurso"))
 
-            System.Diagnostics.Debug.WriteLine(form)
-            Return RedirectToAction("Index")
+            'Guardamos el acta
+            Dim vActa As New Acta
+            With vActa
+                .InsertarActa(form("fecha-examen"), form("intIdCurso"), form("tipo-examen"), form("estado"))
+            End With
+
+            For Each row As DataRow In dtAlumnos.Rows
+                Dim puntos = "puntos-" + row("id_alumno").ToString
+                Dim letras = "letras-" + row("id_alumno").ToString
+
+                'Guardamos las notas de los alumnos
+                With vActa
+                    .InsertarActaAlumnos(form(puntos), form(letras), row("id_alumno"), form("intIdCurso"))
+                End With
+
+            Next row
+
+            Return RedirectToAction("../Acta")
         End Function
 
     End Class
